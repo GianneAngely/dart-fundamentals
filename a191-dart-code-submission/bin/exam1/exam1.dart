@@ -1,6 +1,6 @@
 dynamic studentInfo() {
   // TODO 1
-  var name = 'Gianne Angely Puspa Pilatus'; 
+  var name = 'GianneAngely'; 
   var favNumber = 7;
   var isDicodingStudent = true;
   // End of TODO 1
